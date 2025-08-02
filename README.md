@@ -30,20 +30,32 @@ Este é um projeto de CRUD de produtos utilizando Node.js com Express, MongoDB (
 
 ## 📁 Estrutura de Pastas
 
-project/
 ├── modules/
+
 │ ├── express.js # Onde o app Express está configurado
+
 │ └── ... # Outros módulos de exemplo (fs, http, path)
+
 ├── src/
+
 │ ├── database/
+
 │ │ └── connect.js # Conexão com MongoDB
+
 │ ├── models/
+
 │ │ └── product.model.js # Schema do produto
+
 │ └── views/
+
 │ └── index.ejs # Visualização dos produtos
+
 ├── .env
+
 ├── .gitignore
+
 ├── index.js # Arquivo principal
+
 ├── package.json
 
 
