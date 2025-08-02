@@ -53,7 +53,7 @@ project/
 
 1. **Clone o repositório**:
 ```bash
-git clone https://github.com/seu-usuario/node.git
+git clone https://github.com/ClaudiOmatheuuss/cm_store.git
 cd seu-repo
 
 2. **Instale as dependências**:
