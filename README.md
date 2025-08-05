@@ -1,6 +1,10 @@
 # 🛒 CRUD de Produtos com Node.js, Express, MongoDB e EJS
 
-Este é um projeto de CRUD de produtos utilizando Node.js com Express, MongoDB (via Mongoose) e o motor de visualização EJS. Ele permite:
+> 📚 **Projeto de aprendizado inicial** — Desenvolvido durante uma das aulas do Bootcamp Full Stack que estou participando.  
+> Foi um dos meus primeiros contatos práticos com integração de back-end e banco de dados, servindo como base para projetos mais complexos, como o meu e‑commerce full stack.
+
+Este é um projeto de CRUD de produtos utilizando **Node.js** com **Express**, **MongoDB** (via Mongoose) e o motor de visualização **EJS**.  
+Ele permite:
 
 - Criar, listar e buscar produtos via API (JSON)
 - Listar produtos no navegador com renderização de páginas EJS
